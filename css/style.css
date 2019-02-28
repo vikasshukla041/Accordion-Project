@@ -1,0 +1,27 @@
+.header img {
+    width: 100%;
+}
+.header h2 {
+    font-size: 40px;
+    padding: 0px 30px;
+    text-align: center;
+}
+.brief-intro p a {
+    text-decoration: none;
+}
+.brief-intro p {
+    font-size: 20px;
+    text-align: center;
+}
+.panel-default a {
+    text-decoration: none;
+}
+/* .panel-title > a:before {
+    float: left !important;
+    content:"\f068";
+    padding-right: 5px;
+}
+.panel-title > a.collapsed:before {
+    float: left !important;
+    content:"\f067";
+} */
