@@ -1,2 +1,2 @@
-# kontiki-docs
+# Accordion Project
 by Bootstrap Accordion
